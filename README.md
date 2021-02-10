@@ -1,11 +1,11 @@
 
 ### Sylvain rieutor 👋
 ![Python-3](https://img.shields.io/badge/Python-3-blue.svg)
-![Django](https://img.shields.io/badge/Django-blue.svg)
+![Django-3](https://img.shields.io/badge/Django-3-blue.svg)
 ![HTML-5](https://img.shields.io/badge/HTML-5-orange.svg)
 ![CSS-3](https://img.shields.io/badge/CSS-3-orange.svg)
-![PostgreSQL](https://img.shields.io/badge/Postgres-blue.svg)
-![MySQL](https://img.shields.io/badge/MySQL-blue.svg)
+![PostgreSQL-10](https://img.shields.io/badge/Postgres-10-blue.svg)
+![MySQL-8](https://img.shields.io/badge/MySQL-8-blue.svg)
 
 <!--
 **sylrie/sylrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
