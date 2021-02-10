@@ -1,5 +1,8 @@
-### Hi there 👋
 
+![Python-3.8.2](https://img.shields.io/badge/Python-3.8.2-blue.svg)
+![Django-3.0.3](https://img.shields.io/badge/Django-3.0.3-blue.svg)
+![Postgres-10.3](https://img.shields.io/badge/Postgres-10.3-blue.svg)
+### Sylvain rieutor 👋
 <!--
 **sylrie/sylrie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
