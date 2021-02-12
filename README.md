@@ -1,7 +1,7 @@
 
 ### Sylvain rieutor 👋
 ![Python-3](https://img.shields.io/badge/Python-3-blue.svg)
-![Django-3](https://img.shields.io/badge/Django-3-blue.svg)
+![Django-2](https://img.shields.io/badge/Django-2-blue.svg)
 ![HTML-5](https://img.shields.io/badge/HTML-5-orange.svg)
 ![CSS-3](https://img.shields.io/badge/CSS-3-orange.svg)
 ![PSQL-10](https://img.shields.io/badge/Postgres-10-red.svg)
